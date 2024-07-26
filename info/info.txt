@@ -1,0 +1,15 @@
+admin
+http://127.0.0.1:8000/auth/admin/login
+http://127.0.0.1:8000/auth/admin/register
+student
+http://127.0.0.1:8000/auth/student/login
+http://127.0.0.1:8000/auth/student/register
+teacher 
+http://127.0.0.1:8000/auth/teacher/login
+http://127.0.0.1:8000/auth/teacher/register
+
+student@student.com
+student
+
+teacher@teacher.com
+teacher
